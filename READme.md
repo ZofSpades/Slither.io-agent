@@ -8,20 +8,20 @@ A Deep Reinforcement Learning implementation that trains an AI agent to play Sli
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Problem Statement](#problem-statement)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Details](#model-details)
-- [Training Process](#training-process)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Problem Statement](#-problem-statement)
+- [Architecture](#️-architecture)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Model Details](#-model-details)
+- [Training Process](#️-training-process)
+- [Results](#-results)
+- [Future Improvements](#-future-improvements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ## 🎯 Overview
 
@@ -112,8 +112,8 @@ Output: Q-values for 4 actions
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/slither-io-dqn.git
-cd slither-io-dqn
+git clone https://github.com/ZofSpades/Slither.io-agent.git
+cd Slither.io-agent
 ```
 
 2. **Install dependencies**
@@ -180,7 +180,7 @@ test_agent(agent, env, n_episodes=100)
 ## 📁 Project Structure
 
 ```
-ml_pro_fin_fin/
+Slither.io-agent/
 │
 ├── main.ipynb              # Main Jupyter notebook with complete implementation
 ├── README.md               # This file
@@ -331,10 +331,10 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##  Contact
+## 📧 Contact
 
 For questions, suggestions, or discussions:
-- Open an issue on GitHub
+- Open an issue on [GitHub](https://github.com/ZofSpades/Slither.io-agent/issues)
 
 ## ⭐ Star History
 
